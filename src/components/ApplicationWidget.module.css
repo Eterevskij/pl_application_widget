@@ -1,0 +1,22 @@
+.wrapper {
+    max-width: 416px;
+    background: #fff;
+    padding: 32px;
+    border-radius: 16px;
+}
+
+.contactFieldsWrapper > div + div {
+    margin-top: 8px;
+}
+
+.divider {
+    border-top: 1px solid #E8E8E8 !important;
+}
+
+.contactWrapper {
+    margin-bottom: 16px;
+}
+
+.buttonWrapper + .buttonWrapper {
+    margin-top: 16px;
+}
